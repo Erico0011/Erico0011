@@ -1,6 +1,6 @@
 # 🌟 Desenvolvedor Front-End 🌟
 
-Olá! Eu sou [ Erico], um desenvolvedor front-end apaixonado por criar experiências web intuitivas e interativas. Com uma sólida base em HTML, CSS e JavaScript, e uma expertise em React, estou sempre buscando novas maneiras de trazer design e funcionalidade juntos.
+<p>Olá! eu sou Erico, um desenvolvedor front-end apaixonado por criar experiências web intuitivas e interativas. <br/>Com uma sólida base em HTML, CSS e JavaScript, e uma expertise em React, estou sempre buscando novas maneiras de trazer design e funcionalidade juntos.<p/>
 
 ## 🛠️ Minhas Habilidades
 
@@ -11,7 +11,7 @@ Olá! Eu sou [ Erico], um desenvolvedor front-end apaixonado por criar experiên
 
 ## 📚 Sobre Mim
 
-Desde que escrevi minhas primeiras linhas de código, fiquei fascinado pela capacidade de criar e inovar na web. Cada projeto é uma nova oportunidade para aprender e crescer, e eu valorizo a colaboração e o feedback como partes essenciais desse processo. 
+<p>Desde que escrevi minhas primeiras linhas de código, fiquei fascinado pela capacidade de criar e inovar na web. Cada projeto é uma nova oportunidade para aprender e crescer, e eu valorizo a colaboração e o feedback como partes essenciais desse processo.<p/>
 
 ## 🌟 Projetos Destacados
 
@@ -22,6 +22,6 @@ Desde que escrevi minhas primeiras linhas de código, fiquei fascinado pela capa
 
 Se você está interessado em colaboração, tem uma oportunidade emocionante ou apenas quer trocar ideias sobre desenvolvimento web, ficarei feliz em conversar!
 
-- **Email**: dev@example.com
-- **LinkedIn**: [Erico Sampaio]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/érico-sampaio-99bb19271/))
-- **Instagram**: [@erico_samp]([https://twitter.com/seu_usuario](https://www.instagram.com/erico_samp/))
+- **Email**: ericosamp@gmail.com
+- **LinkedIn**: <link target="_blank">https://www.linkedin.com/in/érico-sampaio-99bb19271/<link/>
+- **Instagram**: <link target="_blank">https://www.instagram.com/erico_samp/<link/>
